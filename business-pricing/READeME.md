@@ -21,9 +21,8 @@ Esta vez me toco hacer un formulario mas completo
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
----
+Repositorio en GitHub: https://github.com/sweetiestrawberry/Tarea1New 
+Deploy: [LINK]https://sweetiestrawberry.github.io/Tarea1New/
 
 ## 📝 Reflexion
 
